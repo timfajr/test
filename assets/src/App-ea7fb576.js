@@ -1,0 +1,1 @@
+import{_ as e}from"../plugin-vue_export-helper-c27b6911.js";import{r,o as n,y as t}from"../vendor-a953f008.js";const s={name:"App",components:{}};function c(p,a,_,m,i,f){const o=r("router-view");return n(),t(o,{class:"bg-mainblue"})}const $=e(s,[["render",c]]);export{$ as A};
